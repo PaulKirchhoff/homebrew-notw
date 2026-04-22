@@ -1,6 +1,6 @@
 cask "newsoftheworld" do
-  version "0.1.2"
-  sha256 "8a26214909c62aea0f07d5cba9e3de0ed696f2a95d7a69c2ad20dc4c1a508327"
+  version "0.1.3"
+  sha256 "9c3335f0a0df26cf69a0b120e64b5a9048dedc7888967e8b5ac687ce37deaf8c"
 
   url "https://github.com/PaulKirchhoff/newsoftheworld/releases/download/v#{version}/NewsOfTheWorld-#{version}.dmg"
   name "News of the World"
